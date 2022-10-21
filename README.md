@@ -17,8 +17,7 @@ Dependency:
 
 ![image](https://user-images.githubusercontent.com/52107919/197178163-33a18324-71d8-4394-a6ff-b1164c0e529e.png)
 
-Properties:
-[code] spring.mvc.pathmatch.matching-strategy = ANT_PATH_MATCHER
+application.properties --> spring.mvc.pathmatch.matching-strategy = ANT_PATH_MATCHER
 
 URL: http://localhost:8080/swagger-ui/index.html
 
